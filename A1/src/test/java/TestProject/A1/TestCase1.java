@@ -10,5 +10,6 @@ public class TestCase1
 	{
 		System.out.println(" ****HelloWorld Print Successfully****");
 		System.out.println(" ****HelloWorld Print Successfully*****");
+		System.out.println(" ****HelloWorld Print Successfully*****");
 	}
 }
