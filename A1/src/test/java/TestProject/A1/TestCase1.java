@@ -9,5 +9,6 @@ public class TestCase1
 	public void TestMethod1()
 	{
 		System.out.println(" ****HelloWorld Print Successfully****");
+		System.out.println(" ****HelloWorld Print Successfully****");
 	}
 }
