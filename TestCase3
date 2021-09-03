@@ -1,0 +1,14 @@
+package TestProject.A1;
+
+import org.testng.annotations.Test;
+
+public class TestCase3 
+{
+	@Test
+	public void TestMethod3()
+	{
+		System.out.println(" ****added from github++****");
+		System.out.println(" ****added from github++*****");
+		System.out.println(" ****added from github+++*****");
+	}
+}
